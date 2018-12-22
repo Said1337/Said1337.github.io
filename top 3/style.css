@@ -1,0 +1,19 @@
+div{
+	color: white;
+}
+h1{
+	text-align: center;
+	background-color: #515151;
+}
+
+span{
+	background-color: #222222;
+	font-style: italic;
+}
+li{
+	background-color: #414141;
+	width: 30%;
+}
+body{ 
+	background-color: #0027CD; 
+}
